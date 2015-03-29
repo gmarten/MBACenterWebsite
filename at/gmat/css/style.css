@@ -655,7 +655,7 @@ footer ul.social li a.twitter:hover{
          	box-sizing: border-box;
 }
 .form input.button {
-	background-image:url(../../img/newsletter-bg.png);
+	background-image:url(../img/newsletter-bg.png);
 	background-repeat:no-repeat;
     background-position: 11px 50%;
     float: none;	
