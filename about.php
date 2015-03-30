@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="at/gmat/css/animations/animate.css" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300" rel='stylesheet' type='text/css'>
 
-    <title>MBA Center - About Us</title>
+    <title>MBA Center Europe - Who We Are</title>
 
 </head>
 
@@ -36,7 +36,7 @@
         <div class="container">
             <ol class="breadcrumb">
                 <li><a href="/">Home</a></li>
-                <li class="active">About Us</li>
+                <li class="active">Who We Are</li>
             </ol>
         </div>
         <!-- end Breadcrumb -->

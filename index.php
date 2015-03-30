@@ -50,8 +50,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                 <div class="col-md-6 col-sm-7">
                     <div class="image-carousel">
                         <div class="image-carousel-slide"><a href="https://www.eventbrite.fr/e/billets-1-2-1-meetings-with-top-business-schools-15386518491"><img src="assets/img/slide-1.jpg" style="width:100%;" alt=""></a></div>
-                        <div class="image-carousel-slide"><img src="assets/img/slide-2.jpg" style="width:100%;"alt=""></div>
-                        <div class="image-carousel-slide"><img src="assets/img/slide-3.jpg" style="width:100%;"alt=""></div>
+                        <div class="image-carousel-slide"><img src="/assets/img/slide-2.jpg" style="width:100%;" alt=""></div>
+                        <div class="image-carousel-slide"><img src="/assets/img/slide-3.jpg" style="width:100%;" alt=""></div>
                     </div><!-- /.slider-image -->
                 </div><!-- /.col-md-6 -->
                 <div class="col-md-6 col-sm-5">
@@ -165,7 +165,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img class="bann" src="assets/img/banmin.png"> 
 															<p> <strong>What is the GMAT ?</strong></p>
 															<p>The GMAT (Graduate Management Admissions Test) is considered by most business schools (including MIM, MSc, MBA, 																and EMBA programs) as an excellent indicator of a student’s academic success.<br/> This standardized test is 																administered by computer (“Computer-Adaptive Test”) and measures computing, analysis, and writing skills. It 																does not test any specific business skills.</p>
-															<div class="boutt"><a href="/at/gmat/" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/gmat/" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div>
@@ -191,7 +191,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin1.png"> 
 															<p> <strong>What is the TOEFL ?</strong></p>
 															<p>The TOEFL (Test of English as a Foreign Language) is recognized by colleges and universities in the United States and other countries as the ultimate evaluation of a potential student’s English proficiency. The test was designed to measure the skills of a non-native English speaker student who wants to follow a higher education curriculum. It is oriented toward academic topics and situations. TOEFL iBT, the new generation of the test, was officially launched in Belgium in October 2005.</p>
-															<div class="boutt"><a href="/at/TOEFL" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/TOEFL" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -216,7 +216,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin2.png"> 
 															<p> <strong>What is the IELTS ?</strong></p>
 															<p>The IELTS (International English Language Testing System) is a test designed to evaluate the English language competency level of non-native speakers wishing to study or work in an English-speaking environment. It is the most popular English language proficiency tests. In 2013, approximately 2 million students took the IELTS.</p><br/>
-															<div class="boutt"><a href="/at/IELTS" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/IELTS" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -241,7 +241,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin3.png"> 
 															<p> <strong>What is the SAT ?</strong></p>
 															<p>The Scholastic Aptitude Test (SAT Reasoning Test, formerly SAT 1) measures reasoning skills in the areas of reading comprehension, mathematics, and written expression. It is used by U.S. colleges and universities as an indicator of a prospective student’s academic ability, and is requred for bachelor’s candidates at nearly all schools in the U.S. and Canada. There are also SAT Subject Tests (formerly SAT 2) that test a candidate’s knowledge of a particular area, such as biology and social sciences. Your SAT score is the biggest factor influencing your acceptance into Ivy League schools and other elite universities.</p>
-															<div class="boutt"><a href="/at/SAT" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/SAT" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -266,7 +266,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin4.png"> 
 															<p> <strong>What is the Solvay Test ?</strong></p>
 															<p>The Solvay test contains three parts (a quantitative test, an essay and an interview), all scheduled on the same day.</p>
-															<div class="boutt"><a href="/at/SOLVAY" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/SOLVAY" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -291,7 +291,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin5.png"> 
 															<p> <strong>What is the Vlerick Test ?</strong></p>
 															<p>The Vlerick Business Admissions Test contains five “sections.” These five sections are scheduled on the same day. The analytical and the English tests are computer-based. The three other sections are “live.”</p>
-															<div class="boutt"><a href="/at/VBAT" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/VBAT" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -318,7 +318,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin6.png"> 
 															<p> <strong>What is the TOEIC ?</strong></p>
 															<p>The TOEIC (Test Of English for International Communication) assesses the ability to communicate in English in an international business context. Reliable and accurate, the TOEIC is recognized and accepted by employers, recruitment agencies, and educational institutions worldwide. Two independent tests are included in the TOEIC: TOEIC L&R (Listening and Reading) and TOEIC S&W (Speaking and Writing).</p>
-															<div class="boutt"><a href="/at/toeic/" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/toeic/" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -343,7 +343,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin7.png"> 
 															<p> <strong>What is the TAGE-MAGE ?</strong></p>
 															<p>The Tage-Mage is a test administered by the Fond National pour l’Enseignement de la Gestion and which is accepted by all the major graduate French speaking business schools as an evaluation tool to select candidates for their masters (MIM or MSc) and MBAs. The Tage-Mage is a paper-based test which is administered about 10 times a year in France. The FNEGE also organizes once a year sessions all over the world.</p>
-															<div class="boutt"><a href="/at/tage-mage/" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/tage-mage/" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -372,7 +372,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															success in a high demanding graduate program.</p>
 															<p>The GRE is a computer based test administered by Prometric and evaluates the candidate’s verbal and quantitative
 															skills through multiple choice questions and two essays.</p>
-															<div class="boutt"><a href="/at/GRE" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/GRE" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -397,7 +397,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 															<img src="assets/img/banmin9.png"> 
 															<p> <strong>What is the IEGAT ?</strong></p>
 															<p>The IEGAT is IE business school’s admission test. It can replace the GMAT, but is different with respect to its content. The IEGAT is a paper-based test measuring basic arithmetic concepts, including the four operations, percentages, and ratios, verbal comprehension and logic. It highly resembles the aptitude tests used by employers. The test lasts for 80 minutes, and becomes progresively harder.</p>
-															<div class="boutt"><a href="/at/IEGAT" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.html" class="btn btn-small fa fa-envelope"> Contact Us</a>
+															<div class="boutt"><a href="/at/IEGAT" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
 															 </div>
 															</div> 
 														   </div><!-- /.section-content -->
@@ -446,7 +446,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                         <h2>MBA Center Brussels</h2>
                     </header>
                     <div class="section-content">
-                        <img class="bann" src="assets/img/students.jpg" alt="" class="add-margin">
+                        <img class="bann add-margin" src="assets/img/students.jpg" alt="">
                         <p><strong>MBA Center Brussels</strong><br/> The MBA Center is an elite test preparation and admission consulting organization helping students from all background enter the university or the business school of their choice. Present in all major European capitals, MBA Center Brussels for instance offers its expertise to the Top Universities in Belgium.</p><br/>
                         <a href="bruxelles.html" class="read-more stick-to-bottom">Read More</a>
                     </div><!-- /.section-content -->
@@ -552,11 +552,9 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                 </aside>
                                 
                                 
-                                </article>
-                            
                             </article>
-                              </article>
-                              <article class="professor-thumbnail">
+
+                            <article class="professor-thumbnail">
                                 <figure class="professor-image"><a href="omer.html"><img src="assets/img/professoromer.png" alt=""></a></figure>
                                 <aside>
                                     <header>
@@ -565,16 +563,10 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                         <figure class="professor-description">Test prep expert</figure>
                                     </header>
                                     <a href="omer.html" class="show-profile">Show Profile</a>
-                                   
-                                   
                                 </aside>
-                               
                             </article>
-                            
-                                
-                               
-                            </article>
-                              <article class="professor-thumbnail">
+
+                            <article class="professor-thumbnail">
                                 <figure class="professor-image"><a href="#"><img src="assets/img/professorerini.jpg" alt=""></a></figure>
                                 <aside>
                                     <header>
@@ -586,10 +578,9 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                    
                                    
                                 </aside>
-                               
                             </article>
-                              </article>
-                              <!-- <article class="professor-thumbnail">
+
+                            <!-- <article class="professor-thumbnail">
                                 <figure class="professor-image"><a href="#"><img src="assets/img/profgunther.png" alt=""></a></figure>
                                 <aside>
                                     <header>
@@ -601,7 +592,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                    
                                    
                                 </aside>
-                               </article> -->
+                            </article> -->
                             
                              <!--<img src="assets/img/pub.png"> -->
                             <br/><br/>
@@ -733,13 +724,12 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 
 
 <!-- end Wrapper -->
-<!-- end Wrapper -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-   ga('require', 'displayfeatures');.
+   ga('require', 'displayfeatures');
    ga('create', 'UA-58592725-1', 'auto');
    ga('send', 'pageview');
 

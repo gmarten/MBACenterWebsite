@@ -23,98 +23,13 @@
 <!-- Wrapper -->
 <div class="wrapper">
 <!-- Header -->
-<div class="navigation-wrapper">
-    <div class="secondary-navigation-wrapper">
-        <div class="container">
-            <div class="navigation-contact pull-left">Call Us:  <span class="opacity-70">+32 (0)2 737 65 05</span></div>
-            <div class="search">
-                <div class="input-group">
-                    <input type="search" class="form-control" name="search" placeholder="Search">
-                    <span class="input-group-btn"><button type="submit" id="search-submit" class="btn"><i class="fa fa-search"></i></button></span>
-                </div><!-- /.input-group -->
-            </div>
-          <!--  <ul class="secondary-navigation list-unstyled">
-                <li><a href="#">Prospective Students</a></li>
-                <li><a href="#">Current Students</a></li>
-                <li><a href="#">Faculty & Staff</a></li>
-                <li><a href="#">Alumni</a></li>
-            </ul>-->
-        </div>
-    </div><!-- /.secondary-navigation -->
-    <div class="primary-navigation-wrapper">
-        <header class="navbar" id="top" role="banner">
-            <div class="container">
-                <div class="navbar-header">
-                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div class="navbar-brand nav" id="brand">
-                        <a href="index.php"><img src="assets/img/logo.png" alt="brand"></a>
-                    </div>
-                </div>
-                <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
-                    <ul class="nav navbar-nav">
-                        <li>
-                            <a href="index.php">Home</a>
-                            
-                        </li>
-                        <li>
-                            <a href="#" class=" has-child no-link">Courses</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="http://mbacentereurope.com/at/gmat/">GMAT</a></li>
-                                <li><a href="http://mbacentereurope.com/at/toefl/">TOEFL</a></li>
-                                <li><a href="http://mbacentereurope.com/at/ielts/">IELTS</a></li>
-                                <li><a href="http://mbacentereurope.com/at/sat/">SAT</a></li>
-                                <li><a href="http://mbacentereurope.com/at/solvay/">Solvay Test</a></li>
-                                <li><a href="http://mbacentereurope.com/at/vlerick/">Vlerick test</a></li>
-                                 <li><a href="http://mbacentereurope.com/at/toeic/">TOEIC</a></li>
-                                  <li><a href="http://mbacentereurope.com/at/tage-mage/">Tage-Mage</a></li>
-                                  <li><a href="course-detail-v3.html">GRE</a></li>
-                                  <li><a href="course-detail-v3.html">IEGAT</a></li>
-                            </ul>
-                        <li>
-                            <a href="#" class="has-child no-link">Admissions Consulting</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="college.html">College</a></li>
-                                <li><a href="business_school.html">Business School</a></li>
-                                <li><a href="graduate.html">Graduate School</a></li>
-                               
-                            </ul>
-                        </li>
-
-
-
-                        <li>
-                            <a href="#" class="has-child no-link">Events</a>
-                            <ul class="list-unstyled child-navigation">
-                                <li><a href="calendar.html">Calendar</a></li>
-                                <li><a href="event-listing.html">Events Listing</a></li>
-                               
-                            </ul>
-                        
-                        <li><a href="shop.html">Online Shop</a></li>
-                         <li class="active">
-                                                                       
-                            <a href="contact-us.html">Contact Us</a>
-                        </li>
-                    </ul>
-                </nav><!-- /.navbar collapse-->
-            </div><!-- /.container -->
-        </header><!-- /.navbar -->
-    </div><!-- /.primary-navigation -->
-    <div class="background">
-        <img src="assets/img/background-city.png"  alt="background">
-    </div>
-</div>
+    <?php include('header.php'); ?>
 <!-- end Header -->
 
 <!-- Breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li class="active">Contact Us</li>
     </ol>
 </div>
