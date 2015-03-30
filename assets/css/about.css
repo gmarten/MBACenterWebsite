@@ -1,26 +1,27 @@
 img {
-    max-width: 1000px;
+    max-width: 100%;
     max-height: 40%;
-    -ms-transform: scale(1.5,1); /* IE 9 */
-    -webkit-transform: scale(1.5,1); /* Safari */
-    transform: scale(1.5,1);
+    -ms-transform: scale(1.52,1); /* IE 9 */
+    -webkit-transform: scale(1.52,1); /* Safari */
+    transform: scale(1.52,1);
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 15px;
 }
 
 /* Items ----------------------------*/
 
 .info {
-    padding: 45px 0;
+    padding: 15px 15px 15px 15px;
 }
 .info .span4 .top-item {
     margin-bottom:50px;
 
 }
 
-.info h3.iconset{
-    padding:0 0 0 40px;
+h3.iconset{
+    padding:5px 0 5px 40px;
 }
 
 /* .............. Light Color ................ */
@@ -89,16 +90,16 @@ footer {
 
 /* .............. Images with color ................ */
 
-.info h3.iconbestcity {
+h3.iconbestcity {
     background: url(../img/blue/icon-bestcity.png) 0 0 no-repeat;
 }
-.info h3.iconworldwide {
+h3.iconworldwide {
     background: url(../img/blue/icon-worldwide.png) 0 0 no-repeat;
 }
-.info h3.iconcommunity {
+h3.iconcommunity {
     background: url(../img/blue/icon-community.png) 0 0 no-repeat;
 }
-.info h3.iconfacilities {
+h3.iconfacilities {
     background: url(../img/blue/icon-facilities.png) 0 0 no-repeat;
 }
 
