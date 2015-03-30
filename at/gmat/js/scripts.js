@@ -65,7 +65,7 @@ jQuery(document).ready(function($) {
 				$("#responseNews").html(response);
 				$("#loadingNews").hide();
 			}
-		})
+		});
 		return false;
 	});
 
@@ -85,7 +85,7 @@ jQuery(document).ready(function($) {
 	/* Slider */	
 	
 	$('.bxslider').bxSlider({
-	  auto: true,
+	  auto: true
 	});
 	
 	

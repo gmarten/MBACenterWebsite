@@ -1,16 +1,17 @@
 <?php
 class Connection
-{	
+{
+    /*
 	var $dsn = 'mysql:dbname=mbacentemdacount;host=mbacentemdacount.mysql.db';
 	var $user = 'mbacentemdacount';
 	var $password = 'Clement2015';
-	
-	/*
-	var $dsn = 'mysql:dbname=mbacen;host=127.0.0.7';
-	var $user = 'root';
-	var $password = '';
-	var $dbh;
 	*/
+
+	var $dsn = 'mysql:dbname=mbacentemdacount;host=127.0.0.7';
+	var $user = 'root';
+	var $password = 'root';
+	var $dbh;
+
 	
 	private static $instance=null;
 	private function __construct()
