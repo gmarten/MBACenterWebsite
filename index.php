@@ -50,8 +50,8 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                 <div class="col-md-6 col-sm-7">
                     <div class="image-carousel">
                         <div class="image-carousel-slide"><a href="https://www.eventbrite.fr/e/billets-1-2-1-meetings-with-top-business-schools-15386518491"><img src="assets/img/slide-1.jpg" style="width:100%;" alt=""></a></div>
-                        <div class="image-carousel-slide"><img src="/assets/img/slide-2.jpg" style="width:100%;" alt=""></div>
-                        <div class="image-carousel-slide"><img src="/assets/img/slide-3.jpg" style="width:100%;" alt=""></div>
+                        <div class="image-carousel-slide"><img src="assets/img/slide-2.jpg" style="width:100%; "alt=""></div>
+                        <div class="image-carousel-slide"><img src="assets/img/slide-3.jpg" style="width:100%; "alt=""></div>
                     </div><!-- /.slider-image -->
                 </div><!-- /.col-md-6 -->
                 <div class="col-md-6 col-sm-5">
@@ -547,11 +547,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                         <figure class="professor-description">Sales Manager</figure>
                                     </header>
                                     <a href="lilo.html" class="show-profile">Show Profile</a>
-                                   
-                                   
                                 </aside>
-                                
-                                
                             </article>
 
                             <article class="professor-thumbnail">
@@ -575,12 +571,9 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                         <figure class="professor-description">Event Manager</figure>
                                     </header>
                                     <a href="eirini.html" class="show-profile">Show Profile</a>
-                                   
-                                   
                                 </aside>
                             </article>
-
-                            <!-- <article class="professor-thumbnail">
+                              <!-- <article class="professor-thumbnail">
                                 <figure class="professor-image"><a href="#"><img src="assets/img/profgunther.png" alt=""></a></figure>
                                 <aside>
                                     <header>
@@ -592,7 +585,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
                                    
                                    
                                 </aside>
-                            </article> -->
+                               </article> -->
                             
                              <!--<img src="assets/img/pub.png"> -->
                             <br/><br/>
@@ -721,7 +714,6 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 <!-- Footer -->
     <?php include('footer.php'); ?>
 <!-- end Footer -->
-
 
 <!-- end Wrapper -->
 <script>
