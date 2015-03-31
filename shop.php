@@ -93,7 +93,7 @@
                                     <div class="description">
                                         <a href="http://www.amazon.fr/gp/offer-listing/2759010686/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2759010686&linkCode=am2&tag=mbceeu-21&linkId=25C5HMLZJGTSL66H"><h3>Total Preparation for the TOEIC 4 Skills (1CD audio MP3)</h3></a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=am2&o=8&a=2759010686" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>10-2010</span>
@@ -115,7 +115,7 @@
                                     <div class="description">
                                         <a href="http://www.amazon.fr/gp/product/2011403502/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2011403502&linkCode=as2&tag=mbceeu-21&linkId=6RBUABEVOFNI2LTV"><h3>Nouveau TOEIC</h3><br/><br/></a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2011403502" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>01-2014</span>
@@ -135,7 +135,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2845552130/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2845552130&linkCode=as2&tag=mbceeu-21&linkId=DGRKWCQJUKE5VB6E">Succeed on the TOEIC (1 CD-rom)<br/></a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2845552130" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3>
 
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                              <span class="course-date"><i class="fa fa-calendar-o"></i>11-2009</span>
@@ -156,7 +156,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2011462231/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2011462231&linkCode=as2&tag=mbceeu-21&linkId=PJWN35A6WI7B4YVA">Nouveau TOEIC<br/><br/></a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2011462231" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                              <span class="course-date"><i class="fa fa-calendar-o"></i>07-2012</span>
@@ -185,7 +185,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/291672902X/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=291672902X&linkCode=as2&tag=mbceeu-21&linkId=5D3AKKCZ7PDMZTNQ">Total Prepkit for the GMAT</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=291672902X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
                                     </h3>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2007</span>
@@ -207,7 +207,7 @@
                                         <h3><a href="http://www.amazon.fr/gp/product/2759006972/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759006972&linkCode=as2&tag=mbceeu-21&linkId=NYT5IBY5OXSBY24Q">Succeed on the Gmat</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759006972" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3>
 										<br/>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>04-2009</span>
@@ -228,7 +228,7 @@
                                         <h3><a href="http://www.amazon.fr/gp/product/2845552440/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2845552440&linkCode=as2&tag=mbceeu-21&linkId=WLMM2LGHWURGLWWU">Réussir le GMAT</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2845552440" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3><br/>
 
                                     
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>05-2010</span>
@@ -250,7 +250,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2759010287/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759010287&linkCode=as2&tag=mbceeu-21&linkId=24ZMLHJATICBMJ4S">Succeed on the GMAT : Study Book</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759010287" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3>
 
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2010</span>
@@ -280,7 +280,7 @@
                                     <div class="description">
                                        <h3><a href="http://www.amazon.fr/gp/product/2845552114/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2845552114&linkCode=as2&tag=mbceeu-21&linkId=FYODLIYHRS3Z334H">Succeed on the TOEFL (1Cédérom)</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2845552114" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3>
 
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2009</span>
@@ -299,7 +299,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2759012719/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759012719&linkCode=as2&tag=mbceeu-21&linkId=PDY7Z6JGJUOTB3TJ">Réussir le nouveau TOEFL</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759012719" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3><br/>
 
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>04-2011</span>
@@ -319,7 +319,7 @@
                                     <div class="description">
                                        <h3><a href="http://www.amazon.fr/gp/product/2011462223/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2011462223&linkCode=as2&tag=mbceeu-21&linkId=XWTBJYNUFSVYCXSZ">Nouveau TOEFL</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2011462223" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3><br/>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2012</span>
@@ -341,7 +341,7 @@
                                     <div class="description">
                                        <h3> <a href="http://www.amazon.fr/gp/product/2759005887/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759005887&linkCode=as2&tag=mbceeu-21&linkId=NKF657NBUTHU4QWA">Réussir le nouveau TOEFL (1CD audio)</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759005887" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>03-2009</span>
@@ -371,7 +371,7 @@
                                     <div class="description">
                                       <h3><a href="http://www.amazon.fr/gp/product/2759005852/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759005852&linkCode=as2&tag=mbceeu-21&linkId=L3MP7FIVPKDT2HFN">Réussir le concours Passerelle 1</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759005852" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3><br/>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>01-2009</span>
@@ -391,7 +391,7 @@
                                     <div class="description">
                                        <h3><a href="http://www.amazon.fr/gp/product/2759008916/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759008916&linkCode=as2&tag=mbceeu-21&linkId=57YN2VTPST4DH5TN">Réussir le concours Passerelle 2</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759008916" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3><br/>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>01-2010</span>
@@ -411,7 +411,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2759020150/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759020150&linkCode=as2&tag=mbceeu-21&linkId=6WDCTJOHCGOI3VU5">Les tests d'anglais aux concours post-Bac</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759020150" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3><br/>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>04-2013</span>
@@ -433,7 +433,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2759012395/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759012395&linkCode=as2&tag=mbceeu-21&linkId=ON2GLVOTDUQX5PJB">Tests de logique aux concours des écoles de commerce</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759012395" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>02-2011</span>
@@ -460,7 +460,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2729871012/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2729871012&linkCode=as2&tag=mbceeu-21&linkId=7KKJH55DU5OK4NTC">Réussir les test de Tremplin 2 Tage Mage et Tests d'Anglais</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2729871012" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>02-2012</span>
@@ -479,7 +479,7 @@
                                     <div class="description">
                                         <h3><a href="http://www.amazon.fr/gp/product/2759003205/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2759003205&linkCode=as2&tag=mbceeu-21&linkId=YXJ5JZJYZGJLKGQR">Réussir le concours SESAME</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=mbceeu-21&l=as2&o=8&a=2759003205" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3><br/>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>11-2007</span>
@@ -498,7 +498,7 @@
                                     </figure>
                                     <div class="description">
                                         <a href="course-detail-v1.html"><h3>How to find long term customers</h3></a>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2012</span>
@@ -519,7 +519,7 @@
                                     </figure>
                                     <div class="description">
                                         <a href="course-detail-v1.html"><h3>Character Drawing: Basic and Advanced Principles</h3></a>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2012</span>
@@ -541,7 +541,7 @@
                                     </figure>
                                     <div class="description">
                                         <a href="course-detail-v1.html"><h3>Character Drawing: Basic and Advanced Principles</h3></a>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2012</span>
@@ -561,7 +561,7 @@
                                     </figure>
                                     <div class="description">
                                         <a href="course-detail-v1.html"><h3>Character Drawing: Basic and Advanced Principles</h3></a>
-                                        <a href="hubert.html" class="course-category">Hubert Silly</a>
+                                        <a href="hubert.php" class="course-category">Hubert Silly</a>
                                         <hr>
                                         <div class="course-meta">
                                             <span class="course-date"><i class="fa fa-calendar-o"></i>07-2012</span>

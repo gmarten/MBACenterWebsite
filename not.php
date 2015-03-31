@@ -53,10 +53,10 @@
                             <center>
                             <h3 class="thank">SORRY</h3><br>
                             
-                            <p>Invalid Email, please provide a correct email.</p>
+                            <p>There was an error with the server. Please try again later or contact the Web Administrator.</p>
                             
                             <br/>
-                            <a href="index.php" class="btn btn-small"> Back home</a>
+                            <a href="javascript:history.go(-1)" class="btn btn-small">Back to previous page</a>
                             </center>
                                                        
                             <footer>

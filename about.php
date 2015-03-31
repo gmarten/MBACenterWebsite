@@ -43,7 +43,7 @@
 
         <!-- Welcome image -->
         <section class="container info">
-                <img src="assets/img/about_welcome.png" alt="Classroom" />
+                <img class="about" src="assets/img/about_welcome.png" alt="Classroom" />
         </section>
         <!-- End welcome image -->
 

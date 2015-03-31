@@ -29,7 +29,7 @@ jQuery(document).ready(function($) {
 
 	/* Contact form */	
 
-	/*$("#contact").submit(function() {
+	$("#contact").submit(function() {
 		$.ajax({
 			type : "POST",
 			url : "send_mail.php",
@@ -39,12 +39,21 @@ jQuery(document).ready(function($) {
 				$("#loading").show();
 			},
 			success : function(response) {
-				$("#response").html(response);
-				$("#loading").hide();
+				if (response == "true")
+                {
+                    //redirect to thank you page
+                    $("#contact")[0].submit()
+                }
+                else
+                {
+                    //show error message
+                    $("#response").html(response);
+                }
+                $("#loading").hide();
 			}
-		})
+		});
 		return false;
-	});*/
+	});
 	
 	
 
