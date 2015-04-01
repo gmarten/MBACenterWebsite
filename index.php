@@ -133,7 +133,7 @@
                                         <section id="course-tabs">
                                             <!-- Nav tabs -->
                                             <ul class="nav nav-tabs course-detail-tabs">
-                                                <li class="active"><a href="#tab-GMAT" data-toggle="tab">GMAT</a></li>
+                                                    <li class="active"><a href="#tab-GMAT" data-toggle="tab">GMAT</a></li>
                                                 <li><a href="#tab-TOEFL" data-toggle="tab">TOEFL</a></li>
                                                 <li><a href="#tab-IELTS" data-toggle="tab">IELTS</a></li>
                                                 <li><a href="#tab-SAT" data-toggle="tab">SAT</a></li>
@@ -211,16 +211,15 @@
                                                         </div>
                                                         <div class="row">
                                                             <div class="col-md-6 col-sm-10">
-                                                                <div class="section-content">
-                                                                    <img src="assets/img/banmin2.png">
-                                                                    <p> <strong>What is the IELTS ?</strong></p>
-                                                                    <p>The IELTS (International English Language Testing System) is a test designed to evaluate the English language competency level of non-native speakers wishing to study or work in an English-speaking environment. It is the most popular English language proficiency tests. In 2013, approximately 2 million students took the IELTS.</p><br/>
-                                                                    <div class="boutt">
-                                                                        <a href="/at/IELTS" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
-                                                                    </div>
+                                                             <div class="section-content">
+                                                                <img src="assets/img/banmin2.png">
+                                                                <p> <strong>What is the IELTS ?</strong></p>
+                                                                <p>The IELTS (International English Language Testing System) is a test designed to evaluate the English language competency level of non-native speakers wishing to study or work in an English-speaking environment. It is the most popular English language proficiency tests. In 2013, approximately 2 million students took the IELTS.</p><br/>
+                                                                <div class="boutt"><a href="/at/IELTS" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
+                                                                 </div>
                                                                 </div>
-                                                            </div><!-- /.section-content -->
-                                                        </div>
+                                                               </div><!-- /.section-content -->
+                                                      </div>
                                                     </section>
                                                        <!--END IELTS CONTENT-->
                                                 </div>

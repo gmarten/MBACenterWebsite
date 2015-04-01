@@ -4,8 +4,8 @@
             <div class="navigation-contact pull-left">Call Us:  <span class="opacity-70">+32 (0)2 737 65 05</span></div>
              <ul class="secondary-navigation list-unstyled pull-right">
 			 <?php /*if(isset($_SESSION['user'])||(isset($_SESSION['employe']))){?> href="profil.php" <?php }else{ ?> href="#" <?php } */?>
-                <li><a <?php if(isset($_SESSION['user'])||(isset($_SESSION['employe']))){?> href="/profil.php" <?php }else{ ?> href="/register-sign-in.php" <?php } ?> ><i class="fa fa-user"></i><?php if(isset($_SESSION['user'])||(isset($_SESSION['employe']))){ echo $_SESSION['nom']; }else{ echo "Sign in";  }?></a></li>
-                <li><a href="/managers/deconnecter.php">Log Out</a></li>
+                 <li><a <?php if(isset($_SESSION['user'])||(isset($_SESSION['employe']))){?> href="/profil.php" <?php }else{ ?> href="/register-sign-in.php" <?php } ?> ><i class="fa fa-user"></i><?php if(isset($_SESSION['user'])||(isset($_SESSION['employe']))){ echo $_SESSION['nom']; }else{ echo "Sign in";  }?></a></li>
+                 <li><a <?php if(isset($_SESSION['user'])||(isset($_SESSION['employe']))){?> href="/managers/deconnecter.php" <?php }else{ ?> href="/register-sign-in.php" <?php } ?> ><i class="fa fa-user"></i><?php if(isset($_SESSION['user'])||(isset($_SESSION['employe']))){ echo "Log Out"; }else{ echo "Register";  }?></a></li>
             </ul>
             <div class="search">
                 <div class="input-group">

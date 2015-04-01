@@ -42,7 +42,7 @@ jQuery(document).ready(function($) {
 				if (response == "true")
                 {
                     //redirect to thank you page
-                    $("#contact")[0].submit()
+                    $("#contact")[0].submit();
                 }
                 else
                 {

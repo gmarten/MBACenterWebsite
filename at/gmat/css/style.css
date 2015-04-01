@@ -790,7 +790,7 @@ footer ul.social li a.twitter:hover{
 
 .micro {
     background-image: url(../img/micro.png);
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 
@@ -802,6 +802,7 @@ footer ul.social li a.twitter:hover{
 
 .full{
     background-image: url(../img/full.png);
+    margin-left: 40px;
 }
 
 .btn {

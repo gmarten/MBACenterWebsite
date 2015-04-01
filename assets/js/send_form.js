@@ -145,7 +145,7 @@ $(document).ready(function(){
 				},
 				error:function(retour_php)
 				{
-					console.log("il y a un soucis \340 la connexion à la base de donn\351es");
+					console.log("il y a un soucis \340 la connexion ï¿½ la base de donn\351es");
 				}
 			});
 		}
@@ -164,7 +164,7 @@ $("#btn_connection").click(function(){
 			//alert(retour_php);
 			if(retour_php!=false)
 			{
-				//alert("ça passe bien par ici");
+				//alert("ï¿½a passe bien par ici");
 				document.location.href="http://mbacentereurope.eu/profil.php";
 				//document.location.href="http://localhost/mbacenter/mbacenter/profil.php";
 			}
@@ -175,7 +175,7 @@ $("#btn_connection").click(function(){
 		},
 		error:function(retour_php)
 		{
-			alert("il y a un soucis avec la connexion à la base de données");
+			alert("il y a un soucis avec la connexion ï¿½ la base de donnï¿½es");
 		}
 	});
 });
