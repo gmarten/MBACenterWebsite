@@ -15,7 +15,7 @@
 
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 
-    <title>MBA Center Europe Events</title>
+    <title>MBA center Europe Events</title>
 
 </head>
 
@@ -45,128 +45,110 @@
                     <div id="page-main">
                         <section class="events" id="events">
                             <header><h1>Events</h1></header>
-                            <section id="event-search">
-                                <div class="search-box">
-                                    <header><span class="fa fa-search"></span><h2>Find Events</h2></header>
-                                    <form id="event-search-form" role="form" class="form-inline">
-                                        <div class="from-row">
-                                            <div class="form-group">
-                                                <label for="course-type">Course Type</label>
-                                                <select name="course-type" id="course-type">
-                                                    <option value="">GMAT</option>
-                                                    <option value="2">IELTS</option>
-                                                    <option value="3">VBAT</option>
-                                                    <option value="4">GRE</option>
-                                                </select>
-                                            </div><!-- /.form-group -->
-                                            <div class="form-group">
-                                                <label for="full-text">Full Text</label>
-                                                <input name="full-text" id="full-text" placeholder="Enter Keyword" type="text">
-                                            </div><!-- /.form-group -->
-                                        </div>
-                                        <button type="submit" class="btn pull-right">Search</button>
-                                    </form><!-- /#<!-- /.form-group -->
-                                </div><!-- /.search-box -->
-                            </section><!-- /#event-search -->
+
+
                             <div class="section-content">
                                 <article class="event">
                                     <figure class="date">
                                         <div class="month">jan</div>
-                                        <div class="day">21</div>
+                                        <div class="day">27</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="gmat.php">Wednesday 21st January : GMAT</a>
+                                            <a href="school-event2.php">Tuesday 27th January : Vlerick Business School</a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> ICAB/Site Arsenal </div>
+                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Vlamingenstraat 83, 3000 Leuven </div>
                                         <div class="description">
-                                            <p>MBA Center offers a 75-minute test comprising 18 verbal (Sentence Correction, Critical Reasoning and Reading Comprehension questions) and 18 math questions (Problem Solving and Data Sufficiency).
+                                            <p>Vlerick Business School regularly opens its doors to give prospective students an insight into
+                                            its Executive Education & MBA programs.
                                             </p>
                                         </div>
-                                        <a href="gmat.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="school-event2.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                                 <article class="event">
                                     <figure class="date">
                                         <div class="month">jan</div>
-                                        <div class="day">22</div>
+                                        <div class="day">28</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="school-event.php">Thursday 22nd January : Said Business School Presentation session (19-21h30)</a>
+                                            <a href="school-event3.php">Wednesday 28th January : 1-2-1 meetings with top Business Schools (17h-22h)</a>
                                         </header>
-                                        <div class="additional-info"><span class="fa fa-map-marker"></span> Hotel Bristol Stéphanie, Avenue Louise 91-93, B-1050</div>
+                                        <div class="additional-info"><span class="fa fa-map-marker"></span> ICAB/Site Arsenal</div>
                                         <div class="description">
-                                            <p>Dana Brown, Director of the MBA, will introduce you to the MBA and Executive MBA programs offered by Said Business School. This
-                                            event will provide an opportunity for you to learn more about the Oxford MBA and Executive MBA (EMBA) programs.
+                                            <p>The MBA Center Brussels will organize a 1-2-1 event with admission officers from top
+                                            business schools. The most prestigious business schools in Europe will attend the event
+                                            namely London Business School, INSEAD, Chicago, IESE, IE, HEC, ESADE, and Vlerick.
                                             </p>
                                         </div>
-                                        <a href="school-event.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="school-event3.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                                 <article class="event">
                                     <figure class="date">
                                         <div class="month">jan</div>
-                                        <div class="day">23</div>
+                                        <div class="day">30</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="gmat800.php">Friday 23rd January : GMAT 800 (18h30-21h)</a>
+                                            <a href="gmat800-2.php">Friday 30th January : GMAT 800 (18h30 - 21h)</a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> ICAB/Site Arsenal </div>
                                         <div class="description">
-                                            <p>Each week the MBA Center students have to complete a full-length test at home (37 math questions and 41 verbal questions). Our
-                                            weekly test (GMAT 800) gives our students the opportunity to apply the GMAT theories learnt in class and to develop their GMAT skills
+                                            <p>Each week the MBA Center students have to complete a full-length test at home (37 math
+                                            questions and 41 verbal questions). Our weekly test (GMAT 800) gives our students the
+                                            opportunity to apply the GMAT theories learnt in class and to develop their GMAT skills
                                             (concentration, accuracy, speed…).
                                             </p>
                                         </div>
-                                        <a href="gmat800.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="gmat800-2.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                                 <article class="event">
                                     <figure class="date">
                                         <div class="month">jan</div>
-                                        <div class="day">24</div>
+                                        <div class="day">31</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="gmatu.php">Saturday 24th January : GMAT unlimited (9h-14h)</a>
+                                            <a href="gmatu-2.php">Saturday 31st January : GMAT regular classes (9h-14h)</a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> ICAB/Site Arsenal </div>
                                         <div class="description">
-                                            <p>The Saturday 24th January GMAT class will last 5 hours during which we will cover both the
+                                            <p>The Saturday 31st January GMAT class will last 5 hours during which we will cover both the
                                             math and verbal sections of the GMAT. We will use the The GMAT Companion to develop
                                             knowledge, strategies and skills to tackle the GMAT.
                                             </p>
                                         </div>
-                                        <a href="gmatu.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="gmatu-2.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                                 <article class="event">
                                     <figure class="date">
                                         <div class="month">jan</div>
-                                        <div class="day">24</div>
+                                        <div class="day">31</div>
                                     </figure>
                                     <aside>
                                         <header>
-                                            <a href="toefl.php">TOEFL Advanced (14h30-17h)</a>
+                                            <a href="toefl-2.php">Saturday 31st January : TOEFL advanced (14h30-17h)</a>
                                         </header>
                                         <div class="additional-info"><span class="fa fa-map-marker"></span> ICAB/Site Arsenal </div>
                                         <div class="description">
-                                            <p>The Saturday 24th January TOEFL class will last 2,5h during which we will develop
-                                            knowledge, strategies and skills to tackle the TOEFL iBT. The manual we will use is The
-                                            Total Prepkit for the TOEFL.
+                                            <p>During the lesson your TOEFL instructor will check the students’ performance, progress, and
+                                            completion of the study plan we have set. Each student can discuss individually with the
+                                            instructor who can help him/her meet his/her objectives.
                                             </p>
                                         </div>
-                                        <a href="toefl.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
+                                        <a href="toefl-2.php" class="btn btn-framed btn-color-grey btn-small">View Details</a>
                                     </aside>
                                 </article><!-- /article -->
                             </div><!-- /.section-content -->
                         </section><!-- /.events -->
                         <div class="center">
                             <ul class="pagination">
-                                <li class="active"><a href="#">1</a></li>
-                                <li><a href="/event-listing2.php">2</a></li>
+                                <li><a href="/event-listing.php">1</a></li>
+                                <li class="active"><a href="">2</a></li>
 
                             </ul>
                         </div>
@@ -181,20 +163,8 @@
     <!-- Footer -->
     <?php include('footer.php'); ?>
     <!-- end Footer -->
-
 </div>
 <!-- end Wrapper -->
-
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-58592725-1', 'auto');
-    ga('send', 'pageview');
-
-</script>
 
 <script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
