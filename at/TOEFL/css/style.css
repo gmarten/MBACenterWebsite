@@ -655,7 +655,7 @@ footer ul.social li a.twitter:hover{
          	box-sizing: border-box;
 }
 .form input.button {
-	background-image:url(../../img/newsletter-bg.png);
+	background-image:url(../img/newsletter-bg.png);
 	background-repeat:no-repeat;
     background-position: 11px 50%;
     float: none;	
@@ -760,10 +760,79 @@ footer ul.social li a.twitter:hover{
 	}
 	
 }
+.formule{
+	float: right;
+	margin-right: 15px;
+}
 
 
 
+/* GMAT Test Simulators ----------------------------------------------*/
 
 
+.details-box {
+    width: 293px;
+    height: 169px;
+    float: left;
+    background: #ffffff;
+    border-radius: 6px;
+    padding-bottom: 57px;
+    background-repeat: no-repeat;
+    background-position: center 30px;
+    padding-top: 147px;
+    text-align: center;
+    position: relative;
+    border: 1px solid #c4c4c4;
+    margin-bottom: 50px;
+    background-position:50% 10%;  /* Sets reference point to scale from */
+    background-size: 30%;        /* Sets background image to cover entire element */
+}
+
+.micro {
+    background-image: url(../img/micro.png);
+    margin-left: 40px;
+}
 
 
+.mini{
+    background-image: url(../img/mini.png);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.full{
+    background-image: url(../img/full.png);
+    margin-left: 40px;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    background-image: none;
+    border-radius: 0px;
+    transition: 0.3s;
+    background-color:#011c38;
+    border: 2px solid transparent;
+    color: #fff;
+    font-weight: bold;
+    outline: none !important;
+    padding: 8px 18px;
+}
+.btn-primary{
+    border-color: #357ebd;
+}
+.btn:hover{
+    background-color:#f19018;
+    color: #fff;
+    text-decoration: none;
+}
+.btn-primary:hover{
+    border-color: #285e8e;
+}

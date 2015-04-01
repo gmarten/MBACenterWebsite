@@ -9,7 +9,7 @@
                         <img src="assets/img/logo-white.png" class="vertical-center">
                     </aside>
                 </div><!-- /.col-md-3 -->
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-3 col-sm-4">
                     <aside>
                         <header><h4>Contact Us</h4></header>
                         <address>
@@ -27,17 +27,30 @@
                         </address>
                     </aside>
                 </div><!-- /.col-md-3 -->
-                <div class="col-md-3 col-sm-4">
+                <div class="col-md-4 col-sm-4">
                     <aside>
                         <header><h4>Courses and services</h4></header>
-                        <ul class="list-links">
-                            <li><a href="at/gmat/">GMAT</a></li>
-                            <li><a href="business_school.php">Admission's Consulting</a></li>
-                            <li><a href="at/SAT/">SAT</a></li>
-                            <li><a href="at/TOEFL/">TOEFL</a></li>
-                            <li><a href="at/IELTS/">IELTS</a></li>
-                            <li><a href="at/SOLVAY/">Solvay test</a></li>
-                        </ul>
+                        <div class="col-md-6 col-sm-6">
+                            <ul class="list-links">
+                                <li><a href="at/gmat/">GMAT</a></li>
+                                <li><a href="at/TOEFL/">TOEFL</a></li>
+                                <li><a href="at/IELTS/">IELTS</a></li>
+                                <li><a href="at/SAT/">SAT</a></li>
+                                <li><a href="at/SOLVAY/">Solvay test</a></li>
+                                <li><a href="at/VBAT/">Vlerick test</a></li>
+                                <li><a href="at/toeic/">TOEIC</a>
+                                <!--li><a href="at/SOLVAY/">tage-mage</a></li-->
+                                <li><a href="at/GRE/">GRE</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <ul class="list-links">
+                                <li><a href="at/SOLVAY/">IEGAT</a></li>
+                                <li><a href="business_school.php">College Admissions Consulting</a></li>
+                                <li><a href="business_school.php">Business School Admissions Consulting</a></li>
+                                <li><a href="business_school.php">Graduate School Admissions Consulting</a></li>
+                            </ul>
+                        </div>
                     </aside>
                 </div><!-- /.col-md-3 -->
                 <div class="col-md-3 col-sm-4">

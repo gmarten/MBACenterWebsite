@@ -45,7 +45,7 @@
                                 <li><a href="/at/SOLVAY">Solvay Test</a></li>
                                 <li><a href="/at/VBAT">Vlerick test</a></li>
                                 <li><a href="/at/toeic/">TOEIC</a></li>
-                                <li><a href="/at/tage-mage/">Tage-Mage</a></li>
+                                <!--li><a href="/at/tage-mage/">Tage-Mage</a></li-->
                                 <li><a href="/at/GRE">GRE</a></li>
                                 <li><a href="/at/IEGAT">IEGAT</a></li>
                             </ul>

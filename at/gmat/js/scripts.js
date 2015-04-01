@@ -1,18 +1,11 @@
 jQuery(document).ready(function($) {
 		
-     
 	/* Tool tip */
-	
 	if( $.fn.tooltip() ) {
 		$('[class="tooltip_hover"]').tooltip();
 	}
 
-
-
-
-
 	/* Carousel */
-
 	$(".carousel").jCarouselLite({
 		btnNext : ".next",
 		btnPrev : ".prev",
@@ -25,14 +18,11 @@ jQuery(document).ready(function($) {
 		mouseWheel : true
 	});
 
-
-
-	/* Contact form */	
-
+	/* Contact form */
 	$("#contact").submit(function() {
 		$.ajax({
 			type : "POST",
-			url : "send_mail.php",
+			url : "/send_mail.php",
 			dataType : "html",
 			data : $(this).serialize(),
 			beforeSend : function() {
@@ -54,13 +44,8 @@ jQuery(document).ready(function($) {
 		});
 		return false;
 	});
-	
-	
 
-
-		
 	/* Newsleter form */	
-
 	$("#newsletter").submit(function() {
 		$.ajax({
 			type : "POST",
@@ -78,26 +63,13 @@ jQuery(document).ready(function($) {
 		return false;
 	});
 
-
-
-
 	/* Responsive Video */	
-
 	$(".video").fitVids();
 	$('input, textarea').placeholder();
 	
-	
-
-
-
-
-	/* Slider */	
-	
+	/* Slider */
 	$('.bxslider').bxSlider({
 	  auto: true
 	});
-	
-	
-
 });
 
