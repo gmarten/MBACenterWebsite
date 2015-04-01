@@ -42,7 +42,7 @@
         <!-- end Breadcrumb -->
 
         <!-- Welcome image -->
-        <section class="container info">
+        <section class="container">
                 <img class="about" src="assets/img/about_welcome.png" alt="Classroom" />
         </section>
         <!-- End welcome image -->
@@ -60,30 +60,41 @@
                 </div>
 
                 <div class="span4">
-                    <div class="top-item">
-                        <h3 class="iconset iconbestcity animated delay2 fadeInDown">Study with test experts</h3>
-                        <p class="animated delay2 fadeInUp">MBA Center Brussels only employs teachers who score 740+ on the GMAT and who participate in its R&D program. They are all experts in the test they teach.  The books produced by MBA Center are recognized for their quality and published by the largest educational publishers in Europe (Hobsons, Studyrama, Hachette Livres, Ellipses…).</p>
-                        <p class="animated delay2 fadeInUp"> Finally the MBA Center courses are recommended by ESSEC (France), EBS (Germany) and Politecnico di Milano (Italy), all of whom use our test-prep services.</p>
-                    </div>
-
-                    <div class="bottom-item">
-                        <h3 class="iconset iconworldwide animated delay2 fadeInDown">Unlimited  Number of Teaching Hours</h3>
-                        <p class="animated delay2 fadeInUp">Our intensive course lasts 40 hours; you can renew as many times as you want. In addition we correct a different test each week throughout the year (Destination 800).</p>
-                    </div>
+                    <h3 class="animated delay1 fadeInDown">The founder and CEO</h3>
+                    <p class="animated delay1 fadeInUp">
+                        <img src="assets/img/professor.jpg" alt="" align="left">
+                    </p>
+                    <p class="animated delay1 fadeInUp">
+                        Hubert Silly came in the Test Prep Industry when he first prepared the GMAT in 1992 and got a perfect score.
+                        As the only French person to have received a perfect score in the GMAT, he was rapidly contacted by publishers
+                        (Studyrama and Ellipses) who offered him to share his secrets.
+                    </p>
+                    <p class="animated delay1 fadeInUp">
+                        At that time the only Test Prep center in Paris was Kaplan. Thus, Hubert Silly decided to use his expertise to
+                        develop a test prep center that would offer more individualized and more comprehensive services: The MBA Center was born!
+                    </p>
+                    <p class="animated delay1 fadeInUp">
+                        Today, individualized and comprehensive services are common place market in the test prep industry, but Hubert Silly was
+                        the first one to understand very well where the test prep would head.
+                    </p>
                 </div>
 
                 <div class="span4">
-                    <div class="top-item">
-                        <h3 class="iconset iconcommunity animated delay3 fadeInDown">Material developed by our own experts</h3>
-                        <p class="animated delay3 fadeInUp">MBA Center is the premier test prep center placed in non-English speaking countries,
-                            with students who are aiming for top business schools; therefore, MBA Center has developed a strong methodology to help non-speaking students to score high on the Verbal.
-                        </p>
-                    </div>
-                    <div class="bottom-item">
-                        <h3 class="iconset iconfacilities animated delay3 fadeInDown">Comprehensive Service</h3>
-                        <p class="animated delay3 fadeInUp">The GMAT is only one from a selection of many factors from which business schools will select candidates, the others being international exposure, leadership, grades, professional qualifications, quality of the professional project, the contribution of the student to the school's community, and finally diversity. </p>
-                        <p class="animated delay3 fadeInUp">MBA Center has the premier coaching department where we will train you to convey in your CV, your essays, letter of reference, interview, and the requirements of the schools. </p>
-                    </div>
+                    <h3 class="animated delay1 fadeInDown">A glimpse into the future</h3>
+                    <p class="animated delay1 fadeInUp">
+                        Between 1996-2009 The MBA Center developed schools in the UK, Belgium, France, Spain, Portugal, Italy, Switzerland,
+                        Germany, Austria, the Czech Republic. Since the world financial crisis, the private education sector has suffered a big
+                        change, and those prep centers that weren't able to adapt to the changing primary needs and conditions of prospective students
+                        are slowly disappearing.
+                    </p>
+                    <p class="animated delay1 fadeInUp">
+                        Today, with the competition of free online classes, The MBA Center is reassessing the model of a test Prep Center. We have
+                        understood that in the future MBA will be mainly present on online market places, institutional centers and bookshops.
+                    </p>
+                    <p class="animated delay1 fadeInUp">
+                        In order to adapt to the student's needs and keep offering an advantage we will soon offer a complete online learning
+                        platform with online diagnostic tests and access to all course material for all our students.
+                    </p>
                 </div>
 
 

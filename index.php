@@ -133,7 +133,7 @@
                                         <section id="course-tabs">
                                             <!-- Nav tabs -->
                                             <ul class="nav nav-tabs course-detail-tabs">
-                                                    <li class="active"><a href="#tab-GMAT" data-toggle="tab">GMAT</a></li>
+                                                <li class="active"><a href="#tab-GMAT" data-toggle="tab">GMAT</a></li>
                                                 <li><a href="#tab-TOEFL" data-toggle="tab">TOEFL</a></li>
                                                 <li><a href="#tab-IELTS" data-toggle="tab">IELTS</a></li>
                                                 <li><a href="#tab-SAT" data-toggle="tab">SAT</a></li>
@@ -177,52 +177,50 @@
 
                                                 </div>
                                                 <div class="tab-pane fade" id="tab-TOEFL">
-                                                     <!--TOEFL CONTENT-->
+                                                    <!--TOEFL CONTENT-->
                                                     <section>
-                                                      <div class="section-content col-md-6 col-sm-10">
-                                                          <div class="row">
-                                                              <p><iframe width="100%" height="300" src="//www.youtube.com/embed/h-ZhrA7uP6Q" frameborder="0" allowfullscreen></iframe></p>
-                                                                </div>
-                                                                    </div>
-
-
-
-                                                                <div class="row">
-                                                                    <div class="col-md-6 col-sm-10">
-                                                                     <div class="section-content">
+                                                        <div class="section-content col-md-6 col-sm-10">
+                                                            <div class="row">
+                                                                <p><iframe width="100%" height="300" src="//www.youtube.com/embed/h-ZhrA7uP6Q" frameborder="0" allowfullscreen></iframe></p>
+                                                            </div>
+                                                        </div>
+                                                            <div class="row">
+                                                                <div class="col-md-6 col-sm-10">
+                                                                    <div class="section-content">
                                                                         <img src="assets/img/banmin1.png">
                                                                         <p> <strong>What is the TOEFL ?</strong></p>
                                                                         <p>The TOEFL (Test of English as a Foreign Language) is recognized by colleges and universities in the United States and other countries as the ultimate evaluation of a potential student’s English proficiency. The test was designed to measure the skills of a non-native English speaker student who wants to follow a higher education curriculum. It is oriented toward academic topics and situations. TOEFL iBT, the new generation of the test, was officially launched in Belgium in October 2005.</p>
-                                                                        <div class="boutt"><a href="/at/TOEFL" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
-                                                                         </div>
+                                                                        <div class="boutt">
+                                                                            <a href="/at/TOEFL" class="btn btn-small fa fa-plus"> Our Courses</a>
+                                                                            <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
                                                                         </div>
-                                                                       </div><!-- /.section-content -->
-                                                                      </div>
+                                                                    </div>
+                                                                </div><!-- /.section-content -->
+                                                            </div>
                                                     </section>
-                                                       <!--END TOEFL CONTENT-->
+                                                    <!--END TOEFL CONTENT-->
                                                 </div>
+
                                                 <div class="tab-pane fade" id="tab-IELTS">
                                                     <!--IELTS CONTENT-->
                                                     <section>
-                                                      <div class="section-content col-md-6 col-sm-10">
-                                                          <div class="row">
-                                                              <p><iframe width="100%" height="300" src="//www.youtube.com/embed/N5REN8EGuas" frameborder="0" allowfullscreen></iframe></p>
-                                                                </div>
+                                                        <div class="section-content col-md-6 col-sm-10">
+                                                            <div class="row">
+                                                                <p><iframe width="100%" height="300" src="//www.youtube.com/embed/N5REN8EGuas" frameborder="0" allowfullscreen></iframe></p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-6 col-sm-10">
+                                                                <div class="section-content">
+                                                                    <img src="assets/img/banmin2.png">
+                                                                    <p> <strong>What is the IELTS ?</strong></p>
+                                                                    <p>The IELTS (International English Language Testing System) is a test designed to evaluate the English language competency level of non-native speakers wishing to study or work in an English-speaking environment. It is the most popular English language proficiency tests. In 2013, approximately 2 million students took the IELTS.</p><br/>
+                                                                    <div class="boutt">
+                                                                        <a href="/at/IELTS" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
                                                                     </div>
-
-
-
-                                                                <div class="row">
-                                                                    <div class="col-md-6 col-sm-10">
-                                                                     <div class="section-content">
-                                                                        <img src="assets/img/banmin2.png">
-                                                                        <p> <strong>What is the IELTS ?</strong></p>
-                                                                        <p>The IELTS (International English Language Testing System) is a test designed to evaluate the English language competency level of non-native speakers wishing to study or work in an English-speaking environment. It is the most popular English language proficiency tests. In 2013, approximately 2 million students took the IELTS.</p><br/>
-                                                                        <div class="boutt"><a href="/at/IELTS" class="btn btn-small fa fa-plus"> Our Courses</a> <a href="contact-us.php" class="btn btn-small fa fa-envelope"> Contact Us</a>
-                                                                         </div>
-                                                                        </div>
-                                                                       </div><!-- /.section-content -->
-                                                                      </div>
+                                                                </div>
+                                                            </div><!-- /.section-content -->
+                                                        </div>
                                                     </section>
                                                        <!--END IELTS CONTENT-->
                                                 </div>
@@ -697,10 +695,12 @@
                 </button>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                <div class="modal-dialog">
+                    <div class="modal-dialog">
 
-                <div class="modal-body">
-                    <iframe width="855" height="500" src="http://www.tanitechnologies.tn/gmat/node/29/take" frameborder="0" allowfullscreen></iframe>
+                        <div class="modal-body">
+                            <iframe width="855" height="500" src="http://www.tanitechnologies.tn/gmat/node/29/take" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
                 </div>
             </center><br/>
             <!-- End GMAT Simulator -->

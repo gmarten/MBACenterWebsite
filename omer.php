@@ -84,14 +84,6 @@
                             </article>
                         </div><!-- /.author -->
                         <hr/>
-                         <footer>
-                              
-                                <section id="post-pager" class="clearfix">
-                                    
-                                    <span class="pull-right"><a href="gunther.html" class="link-icon">Next <span class="fa fa-arrow-circle-o-right"></span></a></span>
-                                </section><!-- /post-pager -->
-                            </footer>
-
                     </section>
                     
                 </div><!-- /#page-main -->
