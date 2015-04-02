@@ -38,16 +38,16 @@
                         <li>
                             <a href="#" class=" has-child no-link">Courses</a>
                             <ul class="list-unstyled child-navigation">
-                                <li><a href="/at/gmat/">GMAT</a></li>
-                                <li><a href="/at/TOEFL">TOEFL</a></li>
-                                <li><a href="/at/IELTS">IELTS</a></li>
-                                <li><a href="/at/SAT">SAT</a></li>
-                                <li><a href="/at/SOLVAY">Solvay Test</a></li>
-                                <li><a href="/at/VBAT">Vlerick test</a></li>
-                                <li><a href="/at/toeic/">TOEIC</a></li>
-                                <!--li><a href="/at/tage-mage/">Tage-Mage</a></li-->
-                                <li><a href="/at/GRE">GRE</a></li>
-                                <li><a href="/at/IEGAT">IEGAT</a></li>
+                                <li><a href="/at/gmat.html">GMAT</a></li>
+                                <li><a href="/at/toefl.html">TOEFL</a></li>
+                                <li><a href="/at/ielts.html">IELTS</a></li>
+                                <li><a href="/at/sat.html">SAT</a></li>
+                                <li><a href="/at/solvay.html">Solvay Test</a></li>
+                                <li><a href="/at/vbat.html">Vlerick test</a></li>
+                                <li><a href="/at/toeic.html/">TOEIC</a></li>
+                                <!--li><a href="/at/tage-mage.html">Tage-Mage</a></li-->
+                                <li><a href="/at/gre.html">GRE</a></li>
+                                <li><a href="/at/iegat.html">IEGAT</a></li>
                             </ul>
                         <li>
                             <a href="#" class="has-child no-link">Admissions Consulting</a>

@@ -62,7 +62,8 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <h1>MBA Center, Your Gateway To Academic Success !</h1>
-                                            <form id="slider-form" role="form" action="slider-form.php" method="post">
+                                            <form id="slider-form" role="form" action="slider-form.php?page=main" method="post">
+                                                <label id="slider-form-error" style="color: red;">Some fields are missing.</label>
                                                 <div class="row">
                                                     <div class="col-md-6">
                                                         <div class="input-group">
@@ -736,6 +737,7 @@
     <script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>
 
     <script type="text/javascript" src="assets/js/custom.js"></script>
+    <script type="text/javascript" src="assets/js/traitement_divers_index.js"></script>
 
 </body>
 </html>

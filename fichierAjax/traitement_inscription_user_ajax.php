@@ -62,9 +62,9 @@ if(isset($_POST['action']))
 					$headers .='Reply-To: hubert@mbacentereurope.eu'."\n";
 					$headers .='Content-Type: text/plain; charset="iso-8859-1"'."\n";
 					$headers .='Content-Transfer-Encoding: 8bit';			
-					mail('ax_sz@hotmail.com', 'Activation du compte employé', 'Bonjour Hubert M/Mme'. $_POST['new_account_name'] .' a besoin que tu actives son compte pour lui permettre de se connecter.  Tu peux le faire en cliquant sur ce lien : <a href="http://mbacentereurope.eu/profil_activation_hubert.php?email='.$_POST['new_account_email'].'>lien</a>', $headers); 
-					
-					include("slider-form.php");
+					mail('ax_sz@hotmail.com', 'Activation du compte employe', 'Bonjour Hubert M/Mme'. $_POST['new_account_name'] .' a besoin que tu actives son compte pour lui permettre de se connecter.  Tu peux le faire en cliquant sur ce lien : <a href="http://mbacentereurope.eu/profil_activation_hubert.php?email='.$_POST['new_account_email'].'>lien</a>', $headers);
+
+					//include("slider-form.php");
 					echo json_encode($employeManager->add($employe));	
 			}
 		}
