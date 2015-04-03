@@ -154,19 +154,15 @@ $(document).ready(function(){
 $("#btn_connection").click(function(){
 	var form_connexion = $("#form_connection").serialize()+"&action=connection";
 	$.ajax({
-		url :'fichierAjax/traitement_inscription_user_ajax.php',
-		//url :'http://localhost/mbacenter/mbacenter/fichierAjax/traitement_inscription_user_ajax.php',
+		url :'/fichierAjax/traitement_inscription_user_ajax.php',
 		type:'POST',
 		dataType:'json',
 		data : form_connexion,
 		success:function(retour_php)
 		{
-			//alert(retour_php);
 			if(retour_php!=false)
 			{
-				//alert("�a passe bien par ici");
-				document.location.href="http://mbacentereurope.eu/profil.php";
-				//document.location.href="http://localhost/mbacenter/mbacenter/profil.php";
+				document.location.href="/profil.php";
 			}
 			else
 			{
@@ -175,7 +171,7 @@ $("#btn_connection").click(function(){
 		},
 		error:function(retour_php)
 		{
-			alert("il y a un soucis avec la connexion � la base de donn�es");
+			alert("il y a un soucis avec la connexion a la base de donn�es");
 		}
 	});
 });

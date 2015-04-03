@@ -24,18 +24,17 @@
 </head>
 <body class="page-sub-page page-register-sign-in">
 
-</body>
-	
+<div id="fb-root"></div>
 <script>
-		// Load the SDK asynchronously
-		(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/sdk.js";
-		fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
 </script>
+
 <!-- Wrapper -->
 <div class="wrapper">
 <!-- Header -->
@@ -95,8 +94,7 @@
 										<label id="repeat_password_match">These two passwords doesn't match.</label>
 								   </div>
 								   <hr>
-								   <div id="login" class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="true" data-auto-logout-link="false"></div>
-								   <hr>
+
                                     <div class="checkbox">
                                         <label>
                                             <input id="condition" type="checkbox" onchange="verifCheck();">I Understand <a href="#">Terms & Conditions</a>
@@ -108,7 +106,27 @@
                                             <input type="checkbox" id="employe">I'm an employe, the boss will confirm my subscription 
                                         </label>
                                     </div>
-									
+
+                                    <hr>
+                                    <!--
+                                      Below we include the Login Button social plugin. This button uses
+                                      the JavaScript SDK to present a graphical Login button that triggers
+                                      the FB.login() function when clicked.
+                                    -->
+                                    <div class="fbLogin">
+                                        <label>Create account using Facebook credentials:</label>
+                                        <table>
+                                            <tr>
+                                                <td><input id="fbLoginButton" type="button" class="btn" value="Create Account"></td>
+                                                <td><div id="facebooklogin" class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="false" onlogin="javascript:CallAfterLogin();" scope="email,public_profile"></div></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+
+                                    <div id="status">
+                                    </div>
+                                    <hr>
+
                                     <button type="button" id="btn_signin" class="btn pull-right">Create New Account</button>
                                 </form>
                             </section><!-- /#account-block -->

@@ -7,7 +7,7 @@ class Connection
 	var $password = 'Clement2015';
 	*/
 
-	var $dsn = 'mysql:dbname=mbacentemdacount;host=127.0.0.7';
+	var $dsn = 'mysql:dbname=mbacentemdacount;host=127.0.0.1';
 	var $user = 'root';
 	var $password = 'root';
 	var $dbh;
