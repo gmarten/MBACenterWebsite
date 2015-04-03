@@ -116,15 +116,7 @@ function fbCreateAccount (){
 }
 
 $("#fbLoginButton").on('click', function(e) {
-    if($("#condition").is(':checked')) {
-        FB.getLoginStatus(function (response) {
-            if (!statusChangeCallback(response, function () {}))
-                $("#facebooklogin").show();
-        });
-    }
-    else{
-        alert("Please accept the Terms & Conditions first!");
-    }
+    fbCreateAccount();
 });
 
 function CallAfterLogin(){

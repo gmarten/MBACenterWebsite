@@ -108,25 +108,6 @@
                                     </div>
 
                                     <hr>
-                                    <!--
-                                      Below we include the Login Button social plugin. This button uses
-                                      the JavaScript SDK to present a graphical Login button that triggers
-                                      the FB.login() function when clicked.
-                                    -->
-                                    <div class="fbLogin">
-                                        <label>Create account using Facebook credentials:</label>
-                                        <table>
-                                            <tr>
-                                                <td><input id="fbLoginButton" type="button" class="btn" value="Create Account"></td>
-                                                <td><div id="facebooklogin" class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="false" onlogin="javascript:CallAfterLogin();" scope="email,public_profile"></div></td>
-                                            </tr>
-                                        </table>
-                                    </div>
-
-                                    <div id="status">
-                                    </div>
-                                    <hr>
-
                                     <button type="button" id="btn_signin" class="btn pull-right">Create New Account</button>
                                 </form>
                             </section><!-- /#account-block -->
@@ -147,7 +128,26 @@
 									<label id="connexion_error">The password or the email is not correct.</label>
                                 </form>
                                 <hr>
-								
+                                <!--
+                                      Below we include the Login Button social plugin. This button uses
+                                      the JavaScript SDK to present a graphical Login button that triggers
+                                      the FB.login() function when clicked.
+                                    -->
+                                <div class="fbLogin">
+                                    <label>Login using Facebook credentials:</label>
+                                    <table>
+                                        <tr>
+                                            <td><img id="fbLoginButton" src="/assets/img/facebook-logo.jpg" style="cursor: pointer;" height="15%" width="75%"></td>
+                                            <td><div id="facebooklogin" class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="false" onlogin="javascript:CallAfterLogin();" scope="email,public_profile"></div></td>
+                                        </tr>
+                                    </table>
+                                </div>
+
+                                <div id="status">
+                                </div>
+                                <hr>
+
+
                                 <p></p>
 								<?php /*if(isset($_SESSION))
 									  {
